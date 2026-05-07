@@ -10,6 +10,7 @@ If you have any questions or problems related to the OSGeo Suomi organization pa
 - You can join the association at [website](https://www.osgeo.fi/jaseneksi/)
 - Non-members may be normal contributors
 - In case of problems, OSGeo Suomi ry board members have the right to remove repositories/code/rights under the organization (e.g. when the repository maintainer's user account is hijacked, etc.)
+- Contributor guidelines: [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ### Creating repos
 
